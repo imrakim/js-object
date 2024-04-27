@@ -244,5 +244,5 @@ let country = [
     {name: 'Zimbabwe', code: 'ZW'} 
   ]
 
-console.log(country[5].name);
+console.log(country[23].name);
 console.log(country[10]);
