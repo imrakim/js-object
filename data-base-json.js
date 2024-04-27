@@ -24,4 +24,6 @@ let dataBase = [{
     "unit_cost": "$20.53"
   }]
   
-  console.log();
+  console.log(dataBase[0].product_name);
+  console.log(dataBase[1].supplier);
+  console.log(dataBase[2].product_name);
