@@ -59,3 +59,5 @@ let colorList = {
 console.log(colorList.colors[0].color);
 console.log(colorList.colors[1].category);
 console.log(colorList.colors[4].code.hex);
+//what is the hex value of color white?
+console.log(colorList.colors[1].code.hex);
